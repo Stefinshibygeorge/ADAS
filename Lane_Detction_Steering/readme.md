@@ -94,22 +94,12 @@ The deviation of the vehicle from the lane center is then calculated, and the st
 
 **Detected Lane & Bird’s Eye View:**
 
-![Lane Detection Result](results_image.jpg)
+![Lane Detection Result](results/results_image.jpg)
 
 **Video Demonstration:**
 
-[🎥 Watch the Output Video](results_video.mp4)
+[🎥 Watch the Output Video](results/results_video.mp4)
 
-*(Replace the file names above with your actual image and video paths)*
-
----
-
-## 🚀 Future Improvements
-
-- Integration of **Canny edge detection** for lane refinement.  
-- Use of **Kalman filter** for temporal smoothing of detected lanes.  
-- Real-time implementation on embedded hardware (e.g., Raspberry Pi).  
-- Incorporation of **CNN-based lane segmentation models** for robustness.
 
 ---
 
