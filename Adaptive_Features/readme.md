@@ -1,4 +1,4 @@
-# 🚘 Adaptive Cruise Control and ADAS Integration Using Arduino
+# 🚘 Adaptive Cruise Control and ADAS Integration
 
 This project implements a **miniature Adaptive Driving Assistance System (ADAS)** that combines **lane and obstacle detection, speed sensing, automatic braking**, and **cruise control with regenerative braking**.  
 It consists of two Arduino-based modules communicating via the **I²C protocol**.
