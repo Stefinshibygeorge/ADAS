@@ -94,7 +94,7 @@ The deviation of the vehicle from the lane center is then calculated, and the st
 
 **Detected Lane & Bird’s Eye View:**
 
-![Lane Detection Result](results/results.jpg)
+![Lane Detection Result](Results/results.jpg)
 
 **Video Demonstration:**
 
