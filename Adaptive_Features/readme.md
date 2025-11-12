@@ -115,24 +115,6 @@ Both units are synchronized through I²C data exchange for dynamic throttle and 
 
 ---
 
-## 📈 Performance Highlights
-
-- **Response time:** < 100 ms between obstacle detection and brake activation  
-- **RPM measurement accuracy:** ±3%  
-- **Cruise mode throttle stability:** Smooth analog output using MCP4725  
-- **Sensor refresh rate:** 6 ultrasonic readings every 100 ms  
-
----
-
-## 📽️ Demonstration
-
-Attach your test video and sensor module image here:
-
-- 🎥 **Video:** `ADAS_Cruise_Test.mp4`  
-- 🖼️ **Image:** `ADAS_Setup.jpg`
-
----
-
 ## 🚀 Future Enhancements
 
 - Integrate **CAN bus** for real vehicle interfacing.  
